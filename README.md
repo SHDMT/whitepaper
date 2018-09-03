@@ -1,2 +1,2 @@
 # whitepaper
-whitepaper of DAGKor
+whitepaper of DAGkor
