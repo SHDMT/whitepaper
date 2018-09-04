@@ -1,2 +1,2 @@
 # whitepaper
-whitepaper of Gravity
+white paper of Gravity
