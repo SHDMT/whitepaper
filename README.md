@@ -1,2 +1,2 @@
 # whitepaper
-whitepaper of DAGkor
+whitepaper of Gravity
